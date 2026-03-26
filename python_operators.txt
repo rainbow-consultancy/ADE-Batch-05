@@ -1,0 +1,21 @@
+-- Python Operators
+
+--> Arthematic Operators
+
+(+, -, *, /, %, **, //)
+
+--> Assignment Operators
+
+(=, +=, -=)
+
+--> Comparison Operators
+(!=, >, <, >=, <=, ==)
+
+--> Logical Operators
+(and, or, not)
+
+--> identity Operators
+(is, is not)
+
+--> membership
+(in, not in)

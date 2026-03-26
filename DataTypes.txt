@@ -1,0 +1,33 @@
+Python DataTypes
+
+Primetive DataTypes
+
+Numeric DataTypes
+Numbers - int (-2B to +2B) -> Size 2 bytes
+float - 10.50
+double - 10.5023456789 4 bytes
+long - size 4 bytes
+
+String DataTypes
+
+Varchars - str 4 bytes
+charecter - chr 1 byte
+
+Boolean DataTypes
+
+True | False
+
+
+Non - Primetive DataTypes
+
+1. list -> [100, True, 20.40, "Google", ["Rohith", 1, 40, 50]] - ordered DataTypes
+2. tuple -> (100, True, 20.40, "Google", ["Rohith", 1, 40, 50]) - ordered DataType
+3. set -> {100, 200, 300, 100, 300, 1, 1, 1, 'Varun'} - un-ordered DataType
+4. dict (dictionary) -> 
+{
+    "key1": "value1",
+    "key2": "value2"
+}
+
+
+ 
