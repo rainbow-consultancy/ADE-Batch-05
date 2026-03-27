@@ -9,49 +9,49 @@
 # print(1)
 # print(2)
 
-# for i in range(1, 6):
-#     print(i)
+for i in range(1, 6):
+    print(i)
     
 a = ["a", "b", "c", "d", "e"]
 
-# for i in a:
-#     print(i.upper())
+for i in a:
+    print(i.upper())
     
-# for i in range(0, len(a)):
-#     print(a[i])
+for i in range(0, len(a)):
+    print(a[i])
 
 
-# for i in range(2, 50, 2):
-#     print(i)
+for i in range(2, 50, 2):
+    print(i)
 
-# for i in range(2, 50):
-#     if i%2==0:
-#         print(i)
+for i in range(2, 50):
+    if i%2==0:
+        print(i)
         
         
 name = "Python"
 
-# for i in name:
-#     print(i)
+for i in name:
+    print(i)
 
 
 i = 1
 
-# while i <= 5:
-#     if i == 3:
-#         i += 1 
-#         continue
-#     else:
-#         print(i)
-#         i = i + 1
+while i <= 5:
+    if i == 3:
+        i += 1 
+        continue
+    else:
+        print(i)
+        i = i + 1
         
-# while i <= 5:
-#     if i == 3:
-#         i += 1 
-#         break
-#     else:
-#         print(i)
-#         i = i + 1
+while i <= 5:
+    if i == 3:
+        i += 1 
+        break
+    else:
+        print(i)
+        i = i + 1
         
         
 # break - will stop the Loop
@@ -67,8 +67,8 @@ i = 1
 # 2 * 10 = 20
 
 
-# for i in range(1, 11):
-#     print("2 *", i, "=", 2*i)
+for i in range(1, 11):
+    print("2 *", i, "=", 2*i)
     
     
 # string formatters
@@ -77,19 +77,19 @@ i = 1
 # f""
 
 
-# for i in range(1, 11):
-#     print("2 * {0} = {1}".format(i, 2*i))
+for i in range(1, 11):
+    print("2 * {0} = {1}".format(i, 2*i))
     
-# for i in range(1, 11):
-#     print(f"2 * {i} = {2*i}")
+for i in range(1, 11):
+    print(f"2 * {i} = {2*i}")
     
 
 # nested loops
 
-# for i in range(2, 10):
-#     for j in range(1, 11):
-#         print(f"{i} * {j} = {i*j}")
-#     print(50 * "-")
+for i in range(2, 10):
+    for j in range(1, 11):
+        print(f"{i} * {j} = {i*j}")
+    print(50 * "-")
 
 
 for i in range(1, 6):
